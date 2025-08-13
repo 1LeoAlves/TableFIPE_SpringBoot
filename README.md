@@ -37,6 +37,7 @@ br.com.TabelaFipeSpringBoot
 ```bash
 git clone https://github.com/seuusuario/seurepositorio.git
 cd seurepositorio
+```
 
 ### 2️⃣ Compilar e rodar
 mvn spring-boot:run
