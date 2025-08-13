@@ -60,6 +60,7 @@ Escolha um modelo e depois um ano.
 
 Resultado final
 O sistema exibirá todos os dados FIPE organizados, por exemplo:
+```bash
 ===== Detalhes do Veículo =====
 Marca:           SUZUKI
 Modelo:          VX 800cc
@@ -71,6 +72,7 @@ Tipo Veículo:    2
 Sigla Comb.:     G
 Mês Referência:  agosto de 2025
 ===============================
+```
 
 📜 Observações
 
@@ -81,5 +83,4 @@ Para maior limite, cadastre um token gratuito no FIPE Online.
 O projeto não utiliza banco de dados; os dados vêm diretamente da API.
 
 📧 Contato
-
 Desenvolvido por Leonardo Alves Moreno
